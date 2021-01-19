@@ -1,6 +1,7 @@
 # #100DaysOfCode Log
 
-## Day 1: January 14, 2020
+## Day 1: January 20, 2020
+
 <br>
 
-**Today's Progress**: 
+**Today's Progress**:
